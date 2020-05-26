@@ -1,0 +1,154 @@
+
+a {
+    color:  #06623b;
+    font-weight: bold;
+    margin: 15px;
+    font-size: 18px;
+}
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.top_container{
+    background-color: #ffffc4;
+    padding-top: 100px;
+    position: relative;
+    
+}
+
+
+hr{
+    color: grey;
+    width: 10%;
+    height:0px;
+    margin: 60px auto;
+    border-style: dotted;
+    border-width: 5px;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    
+
+}    
+ .i-am-webdev{
+    position: relative;
+    bottom: 30px;
+}
+
+h1{
+   margin-top:60px;
+   font-family: 'Pacifico', cursive;
+   font-size: 3rem;
+   color: #06623b; 
+}
+
+h2{
+    font-family: 'Merriweather', serif;
+    color: #649d66;
+    
+
+    
+}
+
+h3{
+    font-family: 'Merriweather', serif;
+    color: #649d66;
+    font-weight: normal;
+    display: inline-block;
+    margin: 0;
+}
+
+.bottom-cloud{
+    position: absolute;
+    top: 200px;
+    left: 230px;
+
+}
+
+.top-cloud{
+    position: absolute;
+    right: 250px;
+    top: 30px;
+}
+
+.profile-pic{
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+    border: 5px solid black;
+    
+   
+}
+.skills-pic1{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 1px solid #f6d743;
+    object-fit: scale-down;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 0;
+
+}
+
+.skills-pic2{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 1px solid #f6d743;
+    object-fit: scale-down;
+    float: right;
+    margin-left: 30px;
+   
+
+}
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+    
+    
+}
+p{
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+}
+
+.btn {
+	background-color:#06623c;
+	-webkit-border-top-left-radius:28px;
+	-moz-border-radius-topleft:28px;
+	border-top-left-radius:28px;
+	-webkit-border-top-right-radius:28px;
+	-moz-border-radius-topright:28px;
+	border-top-right-radius:28px;
+	-webkit-border-bottom-right-radius:28px;
+	-moz-border-radius-bottomright:28px;
+	border-bottom-right-radius:28px;
+	-webkit-border-bottom-left-radius:28px;
+	-moz-border-radius-bottomleft:28px;
+	border-bottom-left-radius:28px;
+text-indent:0;
+	border:1px solid #ffffff;
+	display:inline-block;
+	color:#ffffff;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+}.btn:hover {
+	background-color: #649d66;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+
